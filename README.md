@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-00-tuzki&label=Profile%20views&color=0e75b6&style=flat" alt="mr-00-tuzki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-00-tuzki" alt="mr-00-tuzki" /></a> </p>
-
 - 🌱 I’m currently learning **MEARN and Machine Learning**
 
 - 👨‍💻 My Portfolio [http://marketupstocks.me/Portfolio1/](http://marketupstocks.me/Portfolio1/)
