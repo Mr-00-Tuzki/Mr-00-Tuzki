@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MEARN and Machine Learning**
 
-- 👨‍💻 My Portfolio [http://marketupstocks.me/Portfolio1/](https://mr-00-tuzki.tech/)
+- 👨‍💻 My Portfolio [Portfolio](https://mr-00-tuzki.tech/)
 
 - 📫 How to reach me **tushar834001@gmail.com**
 
