@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MEARN and Machine Learning**
 
-- 👨‍💻 My Portfolio [Portfolio](https://mr-00-tuzki.tech/)
+- 👨‍💻 My Portfolio [Portfolio](https://mr-00-tuzki.github.io/Portfolio/)
 
 - 📫 How to reach me **tushar834001@gmail.com**
 
