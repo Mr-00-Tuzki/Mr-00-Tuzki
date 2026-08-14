@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-00-tuzki&label=Profile%20views&color=0e75b6&style=flat" alt="mr-00-tuzki" /> </p>
 
-- 🌱 I’m currently learning **MEARN and Machine Learning**
+- 🌱 I’m currently learning **MERN and Machine Learning**
 
 - 👨‍💻 My Portfolio [Portfolio](https://mr-00-tuzki.github.io/Portfolio/)
 
